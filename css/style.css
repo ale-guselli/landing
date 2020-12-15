@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=B612&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/job.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Inconsolata', monospace;
+	font-size: 22px; 
+	background-color: black;
+	margin: 0px auto;
+}
+
+h1, h2, h3 {
+	font-family: 'B612', sans-serif;
+	font-weight: bold;
+	color : white;
+
+}
+
+h1 {
+	font-size: 30px; 
+}
+
+h2 {
+	font-size: 25px; 
+}
+
+h3{
+	font-size: 35px;
+	color: #00B4FF;
+}
+
+h4 {
+	color: white; 
+}
+
+a {
+	text-decoration: none; 
+}
